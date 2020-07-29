@@ -10,7 +10,14 @@
 
 ## Install
 
-```npm install youtube-metadata-from-url --save ```
+Install from the command line
+```
+$ npm install @ezefranca/youtube-metadata-from-url@1.0.3
+```
+Install via package.json:
+```
+"@ezefranca/youtube-metadata-from-url": "1.0.3" 
+```
 
 ## Example
 
