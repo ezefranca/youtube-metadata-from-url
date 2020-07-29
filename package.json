@@ -1,7 +1,7 @@
 {
   "name": "youtube-metadata-from-url",
   "version": "1.0.1",
-  "description": "Get a youtube metadata passing just the video url",
+  "description": "Get a youtube metadata just passing the video url",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "youtube-data",
     "youtube-title"
   ],
-  "author": "Dan Vega",
+  "author": "@ezefranca",
   "license": "MIT",
   "homepage": "https://github.com/ezefranca/youtube-metadata-from-url",
   "dependencies": {
