@@ -1,6 +1,6 @@
 {
-  "name": "youtube-metadata-from-url",
-  "version": "1.0.2",
+  "name": "@ezefranca/youtube-metadata-from-url",
+  "version": "1.0.3",
   "description": "Get a youtube metadata just passing the video url",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,15 @@
   "dependencies": {
     "es6-promise": "^4.2.8",
     "https": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezefranca/youtube-metadata-from-url"
+  },
+  "bugs": {
+    "url": "https://github.com/ezefranca/youtube-metadata-from-url/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
