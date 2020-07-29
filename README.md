@@ -18,6 +18,7 @@ $ npm i youtube-metadata-from-url
 
 ## Example
 
+[Try it here](https://runkit.com/embed/06df78thl82i)
 
 ```js
 
