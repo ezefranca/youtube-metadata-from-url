@@ -12,12 +12,9 @@
 
 Install from the command line
 ```
-$ npm install @ezefranca/youtube-metadata-from-url@1.0.3
+$ npm i youtube-metadata-from-url
 ```
-Install via package.json:
-```
-"@ezefranca/youtube-metadata-from-url": "1.0.3" 
-```
+[Install via github package](https://github.com/ezefranca/youtube-metadata-from-url/packages/335535)
 
 ## Example
 
