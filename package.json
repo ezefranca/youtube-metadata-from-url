@@ -11,8 +11,9 @@
     "youtube-data",
     "youtube-title"
   ],
-  "author": "@ezefranca",
+  "author": "Dan Vega",
   "license": "MIT",
+  "homepage": "https://github.com/ezefranca/youtube-metadata-from-url",
   "dependencies": {
     "es6-promise": "^4.2.8",
     "https": "^1.0.0"
