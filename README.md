@@ -37,19 +37,19 @@ youtube.metadata(url).then(function(json) {
 
 ```js
 {
-  "thumbnail_url": "https://i.ytimg.com/vi/WC5FdFlUcl0/hqdefault.jpg",
-  "type": "video",
-  "thumbnail_width": 480,
-  "html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/WC5FdFlUcl0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-  "author_name": "AudioslaveVEVO",
-  "height": 270,
-  "width": 480,
-  "provider_name": "YouTube",
-  "author_url": "https://www.youtube.com/user/AudioslaveVEVO",
-  "title": "Audioslave - Be Yourself (Album Version, Closed Captioned)",
-  "provider_url": "https://www.youtube.com/",
-  "thumbnail_height": 360,
-  "version": "1.0"
+  title: 'Foo Fighters - The Sky Is A Neighborhood (Official Music Video)',
+  author_name: 'foofightersVEVO',
+  author_url: 'https://www.youtube.com/user/foofightersVEVO',
+  type: 'video',
+  height: 113,
+  width: 200,
+  version: '1.0',
+  provider_name: 'YouTube',
+  provider_url: 'https://www.youtube.com/',
+  thumbnail_height: 360,
+  thumbnail_width: 480,
+  thumbnail_url: 'https://i.ytimg.com/vi/TRqiFPpw2fY/hqdefault.jpg',
+  html: '<iframe width="200" height="113" src="https://www.youtube.com/embed/TRqiFPpw2fY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 }
 ```
 
