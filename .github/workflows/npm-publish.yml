@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: yarn install
+      - run: npm install
       - run: npm login --registry=https://registry.npmjs.org
       - run: npm publish --@myscope:registry=https://registry.npmjs.org --access public
         env:
