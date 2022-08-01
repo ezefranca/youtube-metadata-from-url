@@ -2,9 +2,7 @@
 
 ## Simple module to get a video metadata from url
 
-[![npm](https://img.shields.io/npm/v/youtube-metadata-from-url.svg)](https://www.npmjs.com/package/youtube-metadata-from-url) [![npm](https://img.shields.io/npm/dm/youtube-metadata-from-url.svg)](https://www.npmjs.com/package/youtube-metadata-from-url)
-
-[![NPM](https://nodei.co/npm/youtube-metadata-from-url.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/youtube-metadata-from-url)
+[![Node.js Package](https://github.com/ezefranca/youtube-metadata-from-url/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/ezefranca/youtube-metadata-from-url/actions/workflows/npm-publish-github-packages.yml)
 
 **youtube-metadata-from-url** is a simple module to get a youtube metadata passing just the video url.
 
