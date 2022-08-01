@@ -16,11 +16,15 @@ exports.metadata = function (url) {
             });
 
             _res.on('end', function () {
-                var response = JSON.parse(body);
-                accept(response);
+                try {
+                    var response = JSON.parse(body);
+                    accept(response);
+                } catch (e) {
+                    error({error: e});
+                }
             });
         }).on('error', function (e) {
-            error({ error: "Something wrong!!" });
+            error({ error: e });
         });
     });
 };
